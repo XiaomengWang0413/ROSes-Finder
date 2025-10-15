@@ -50,6 +50,8 @@ This module takes the selected sequences from Module 1 as input and performs dat
 ## Output
 The final classification results are stored in 'final_Nclass.out'.
 ## ROS-CNN models download address
-Due to GitHub's file size limitations, the ROSes-CNN models can be downloaded via Google Drive
-https://drive.google.com/file/d/1FDO7oSvnasWIvWRsaHGw1Nnc-KsVK7b-/view?usp=share_link
-https://drive.google.com/file/d/1rNKbvN9k0R2m0OoDnRT1oaX-KO_q4aS-/view?usp=share_link
+Due to GitHub's file size limitations, the ROSes-CNN models can be downloaded via Baidu Drive
+#https://drive.google.com/file/d/1FDO7oSvnasWIvWRsaHGw1Nnc-KsVK7b-/view?usp=share_link
+#https://drive.google.com/file/d/1rNKbvN9k0R2m0OoDnRT1oaX-KO_q4aS-/view?usp=share_link
+通过网盘分享的文件：4_1yesORno.h5
+链接: https://pan.baidu.com/s/1QohozpsZsUYGp8UT_takPQ?pwd=8nim 提取码: 8nim
