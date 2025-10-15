@@ -10,9 +10,9 @@ The model mainly consists of two modules for classifying FASTA files. The whole 
 	- -model2
 - Output
 # Install
-
+~~~
 conda env create -f environment.yml
-
+~~~
 ## Requirements
 
 - Python  3.7.11
